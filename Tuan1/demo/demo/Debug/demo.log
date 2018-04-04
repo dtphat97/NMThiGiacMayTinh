@@ -1,0 +1,16 @@
+﻿  demo.cpp
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(8): error C2871: 'cv': a namespace with this name does not exist
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(12): error C2065: 'Mat': undeclared identifier
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(12): error C2146: syntax error: missing ';' before identifier 'image'
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(12): error C2065: 'image': undeclared identifier
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(13): error C2065: 'image': undeclared identifier
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(13): error C2065: 'IMREAD_COLOR': undeclared identifier
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(13): error C3861: 'imread': identifier not found
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(14): error C2065: 'image': undeclared identifier
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(14): error C2228: left of '.data' must have class/struct/union
+  e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(14): note: type is 'unknown-type'
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(19): error C2065: 'WINDOW_AUTOSIZE': undeclared identifier
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(19): error C3861: 'namedWindow': identifier not found
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(20): error C2065: 'image': undeclared identifier
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(20): error C3861: 'imshow': identifier not found
+e:\monhoc\nmthigiacmt\tuan1\demo\demo\demo.cpp(21): error C3861: 'waitKey': identifier not found

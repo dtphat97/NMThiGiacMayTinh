@@ -1,0 +1,18 @@
+﻿  1512390_Lab03.cpp
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(191): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(194): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(205): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(206): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(208): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(219): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(220): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(222): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(229): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(230): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\monhoc\nmthigiacmt\tuan3\1512390_lab03\1512390_lab03\1512390_lab03.cpp(232): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+  1512390_Lab03.vcxproj -> E:\MonHoc\NMThiGiacMT\Tuan3\1512390_Lab03\x64\Debug\1512390_Lab03.exe

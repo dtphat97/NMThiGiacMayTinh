@@ -1,0 +1,15 @@
+﻿  obj1.cpp
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(78): warning C4101: 'D': unreferenced local variable
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(217): warning C4101: 'D': unreferenced local variable
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(245): warning C4101: 'D': unreferenced local variable
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(295): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(345): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(406): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(447): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(448): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(449): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(485): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(486): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(487): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\obj1\obj1\obj1.cpp(512): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  obj1.vcxproj -> E:\MonHoc\NMThiGiacMT\Tuan2\obj1\x64\Debug\obj1.exe

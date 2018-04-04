@@ -1,0 +1,15 @@
+﻿  1512390_Lab02.cpp
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(86): warning C4101: 'D': unreferenced local variable
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(225): warning C4101: 'D': unreferenced local variable
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(253): warning C4101: 'D': unreferenced local variable
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(303): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(353): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(414): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(455): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(456): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(457): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(493): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(494): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(495): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\monhoc\nmthigiacmt\tuan2\1512390_lab02\1512390_lab02\1512390_lab02.cpp(520): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  1512390_Lab02.vcxproj -> E:\MonHoc\NMThiGiacMT\Tuan2\1512390_Lab02\x64\Debug\1512390_Lab02.exe

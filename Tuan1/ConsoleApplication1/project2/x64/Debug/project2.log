@@ -1,0 +1,4 @@
+﻿  project2.cpp
+e:\monhoc\nmthigiacmt\tuan1\consoleapplication1\project2\project2.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\monhoc\nmthigiacmt\tuan1\consoleapplication1\project2\project2.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  project2.vcxproj -> E:\MonHoc\NMThiGiacMT\Tuan1\ConsoleApplication1\x64\Debug\project2.exe
